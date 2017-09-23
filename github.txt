@@ -1,0 +1,14 @@
+
+
+<!DOCTYPE html> 
+ <html>
+ <body>
+
+ <h1>P.A</h1>
+ <p>welcom to the new sytem alert technoligy</p>
+ <div style="background-color:red;color:white;padding:20px">
+            <p1>ALL NEW "P.A" ALERT</P1>
+ <div style="background-color:RED;color:WHITE;padding:40px">
+            <p2>PRO-PETS</P2>
+ </body>
+ </html> 
